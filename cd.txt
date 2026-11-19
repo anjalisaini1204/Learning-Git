@@ -1,0 +1,1 @@
+The cd (change directory) command is used to navigate through folders in Git Bash.
