@@ -1,0 +1,4 @@
+In Git Bash, the git status command displays the current state of your working 
+directory and staging area. It lets you inspect which changes are ready to be 
+committed and which files are untracked without modifying your repository.
+
