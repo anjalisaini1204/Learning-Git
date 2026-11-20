@@ -1,0 +1,60 @@
+# Git and GitHub – Definition and Description
+
+## 1. Git
+
+Definition:
+
+Git is a free, open-source version control system used to track changes in source code and files. It helps developers manage their code, maintain different versions, and collaborate with other developers.
+
+Description:
+
+- Git keeps track of changes made to files and code.
+- It allows developers to go back to previous versions of their projects.
+- It helps multiple developers work on the same project.
+- It allows developers to create branches to work on different features.
+- Git works locally on your computer.
+
+Example: If you make changes to your project and something goes wrong, Git allows you to restore an earlier version of your code.
+
+## 2. GitHub
+
+Definition:
+
+GitHub is a cloud-based platform used to store, manage, and share code repositories using Git. It helps developers collaborate on projects and manage their source code online.
+
+Description:
+
+- GitHub provides online storage for Git repositories.
+- It allows developers to share their projects with others.
+- It helps multiple developers collaborate on the same project.
+- It provides features like Pull Requests, Issues, and Code Reviews.
+- It allows developers to access their projects from anywhere through the internet.
+
+Example: You can upload your project to GitHub so that other developers can view, download, or contribute to your code.
+
+## 3. Difference Between Git and GitHub
+
+| Git | GitHub |
+| --- | --- |
+| Git is a version control system. | GitHub is a cloud-based platform. |
+| Git is a software/tool. | GitHub is an online service. |
+| Git works locally on your computer. | GitHub stores repositories online. |
+| Git tracks changes in files. | GitHub helps share and collaborate on code. |
+| Git is developed by the open-source community. | GitHub is owned by Microsoft. |
+
+## 4. Relationship Between Git and GitHub
+
+Git and GitHub work together to make software development easier.
+
+- Git is used to track and manage code changes.
+- GitHub is used to store and share Git repositories online.
+- Developers use Git to manage their projects and GitHub to collaborate with others.
+
+In simple words:
+
+- Git = A tool used to track changes in code.
+- GitHub = A website used to store and share code online.
+
+## 5. Conclusion
+
+Git and GitHub are important tools in software development. Git helps developers manage different versions of their code, while GitHub helps them store, share, and collaborate on projects online. Both tools make software development more organized and efficient.

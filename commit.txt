@@ -1,1 +1,0 @@
-The primary command to save staged changes in Git Bash is git commit -m "your message".

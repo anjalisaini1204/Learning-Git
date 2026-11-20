@@ -1,3 +1,0 @@
-In Git Bash, the git add command moves new, modified, or 
-deleted files from your working directory to the staging area (index)
-so they are ready for your next commit.
